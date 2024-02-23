@@ -1,0 +1,14 @@
+{
+  "name": "@ezcryptoin/teacb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "repository": {
+    "url":"https://github.com/ezcrypton/teacb.git"
+  "license": "ISC"
+}
